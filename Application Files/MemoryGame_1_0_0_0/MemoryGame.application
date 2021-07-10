@@ -8,7 +8,7 @@
         <beforeApplicationStartup />
       </update>
     </subscription>
-    <deploymentProvider codebase="https://github.com/Kumar2Harsh/MemoryGame/blob/master/setup.exe?raw=true/MemoryGame.application" />
+    <deploymentProvider codebase="https://github.com/Kumar2Harsh/MemoryGame/blob/master/MemoryGame.application" />
   </deployment>
   <compatibleFrameworks xmlns="urn:schemas-microsoft-com:clickonce.v2">
     <framework targetVersion="4.8" profile="Full" supportedRuntime="4.0.30319" />
